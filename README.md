@@ -12,7 +12,7 @@ hvplot & Scikit Learn:
 
 -pip install hvplot 
 
--pip install Scikit Learn
+-pip install scikit-learn
 
 ---
 ## Please navigate to [real-estate-visualization](https://github.com/Brock-Denton/real-estate_app_buy_then_rent/blob/main/san_francisco_housing.ipynb)
